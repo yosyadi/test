@@ -87,9 +87,13 @@ if(isset($_POST['login'])){
 
   </body>
 </html>
+<<<<<<< HEAD
 <!-- hai hai 
 ziziziziziziz
 skdfjskfds-->
+=======
+<-- hiu hiu -->
+>>>>>>> 5871b7188e6281e397f2b3516e7a9f6414c44bff
 
 <?php 
 ob_end_flush();
